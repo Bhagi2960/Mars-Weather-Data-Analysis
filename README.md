@@ -1,8 +1,8 @@
-This assignment consists of two technical products. You will submit the following deliverables:
+This assignment consists of two technical products:
 
 Deliverable 1: Scrape titles and preview text from Mars news articles.
 
-1)Use automated browsing to visit the Mars news siteLinks to an external site.. Inspect the page to identify which elements to scrape.
+1)Use automated browsing to visit the Mars news site. Links to an external site.. Inspect the page to identify which elements to scrape.
 
 2)Create a Beautiful Soup object and use it to extract text elements from the website.
 
